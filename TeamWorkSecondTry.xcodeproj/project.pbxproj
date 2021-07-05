@@ -56,6 +56,7 @@
 		EA584F7A26936541008CC34F /* TeamWorkSecondTry */ = {
 			isa = PBXGroup;
 			children = (
+				EAF931E32693689B0081326E /* Infrastructure */,
 				EAF931E1269368140081326E /* Presentation */,
 				EA584F7B26936541008CC34F /* AppDelegate.swift */,
 				EA584F7D26936541008CC34F /* SceneDelegate.swift */,
@@ -73,6 +74,13 @@
 			children = (
 			);
 			path = Presentation;
+			sourceTree = "<group>";
+		};
+		EAF931E32693689B0081326E /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Infrastructure;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
